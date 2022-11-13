@@ -1,0 +1,37 @@
+h1    {
+    font-family:    calibri;
+    font-size: 32px;
+    color: rgb(255, 255, 255);  
+}
+
+h2    {
+    font-family:    calibri;
+    font-size: 24px;
+    color:  rgb(255, 255, 255);
+}
+
+h3    {
+    font-family:    calibri;
+    font-size: 24px;
+    color:  rgb(255, 255, 255);
+}
+
+body    {
+    font-family:    calibri;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+
+p, a, li   {
+    font-family:    calibri;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+}
+
+strong  {
+    font-family:    calibri;
+    font-size: 17px;
+    color:  rgb(255, 255, 255);
+}
+ 
